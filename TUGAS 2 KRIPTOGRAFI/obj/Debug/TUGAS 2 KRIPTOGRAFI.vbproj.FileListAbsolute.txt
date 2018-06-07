@@ -1,0 +1,10 @@
+c:\users\profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\bin\Debug\TUGAS 2 KRIPTOGRAFI.exe.config
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\bin\Debug\TUGAS 2 KRIPTOGRAFI.exe
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\bin\Debug\TUGAS 2 KRIPTOGRAFI.pdb
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\bin\Debug\TUGAS 2 KRIPTOGRAFI.xml
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\obj\Debug\TUGAS_2_KRIPTOGRAFI.Form1.resources
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\obj\Debug\TUGAS_2_KRIPTOGRAFI.Resources.resources
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\obj\Debug\TUGAS 2 KRIPTOGRAFI.vbproj.GenerateResource.Cache
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\obj\Debug\TUGAS 2 KRIPTOGRAFI.exe
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\obj\Debug\TUGAS 2 KRIPTOGRAFI.xml
+C:\Users\Profesional\documents\visual studio 2013\Projects\TUGAS 2 KRIPTOGRAFI\TUGAS 2 KRIPTOGRAFI\obj\Debug\TUGAS 2 KRIPTOGRAFI.pdb
